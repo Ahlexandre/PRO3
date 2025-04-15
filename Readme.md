@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a été réalisé dans le cadre de l'atelier L3 MIAGE DevOps.
+Ce projet a été réalisé dans le cadre de l'atelier L3 MIAGE DevOps animé par [Nicolas Lebacq](https://github.com/SmashingQuasar)
 
 ## Membres du groupe
 
@@ -15,13 +15,11 @@ Ce projet a été réalisé dans le cadre de l'atelier L3 MIAGE DevOps.
 | Lakrouz           | Sarah             |
 
 
-Commandes à utiliser :
-
 ### Prérequis 
 - Lancer Docker Desktop
-- Être sous Linux (WSL / Debian)
+- Être sous Linux (WSL / Debian / Ubuntu)
 
-### Étape 0: Accèder au fichier pour de démarrage
+### Étape 0: Accèder au fichier de démarrage
 ```bash
 cd _ops/scripts
 ```
@@ -38,5 +36,3 @@ curl -k http://localhost:80
 ```bash
 ./down.sh
 ```
-
-L3 MIAGE 2025 : TD - Atelier DevOps animé par [Nicolas Lebacq](https://github.com/SmashingQuasar)
